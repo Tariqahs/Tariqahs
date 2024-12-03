@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tariq</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate cyber security </h3>
 
 
